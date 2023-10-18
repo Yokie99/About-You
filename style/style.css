@@ -1,0 +1,56 @@
+body {
+  background-image: url(../assets/Clouds-Meet-The-Sea-AI-Generated-4K-Wallpaper1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(212, 186, 236);
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(212, 186, 236);
+  padding: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+.textBG {
+  background-color: rgb(195, 233, 244);
+  padding: 10px;
+  display: inline-flex;
+
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centered-list {
+  padding: 24px;
+  background-color: rgb(195, 233, 244); 
+  border-radius: 10px; 
+  text-align: center;
+  
+}
+.centered-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc; 
+}
+
+/* .centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
